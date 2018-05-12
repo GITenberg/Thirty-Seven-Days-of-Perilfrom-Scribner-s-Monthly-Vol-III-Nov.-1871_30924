@@ -1,0 +1,32 @@
+_repo: Thirty-Seven-Days-of-Perilfrom-Scribner-s-Monthly-Vol-III-Nov.-1871_30924
+_version: 0.1.0
+alternative_title: 37 Days of Peril
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Everts, Truman
+    birthdate: 1816
+    deathdate: 1901
+    gutenberg_agent_id: '34898'
+    url: http://www.gutenberg.org/2009/agents/34898
+description: ''
+gutenberg_issued: '2010-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30924'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Search and rescue operations -- Yellowstone National Park -- History -- 19th
+  century'
+- !lcsh 'Yellowstone National Park -- Description and travel'
+- !lcc 'F721'
+- !lcsh 'Everts, Truman, 1816-1901 -- Travel -- Yellowstone National Park'
+title: 'Thirty-Seven Days of Peril
+
+  from Scribner''s Monthly Vol III Nov. 1871'
+url: http://www.gutenberg.org/ebooks/30924
